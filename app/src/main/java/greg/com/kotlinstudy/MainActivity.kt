@@ -32,6 +32,8 @@ open class MainActivity : Activity() {
         data1.name="4444"
         Log.d("t88",data1.name)
         Log.d("t88",data1Copy.name)
+
+
     }
 
     class Person(name:String,age:Int){
